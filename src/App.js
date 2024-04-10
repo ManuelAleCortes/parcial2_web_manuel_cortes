@@ -1,5 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+//import { useState } from "react";
+//import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Login from "./componentes/paginas/login";
+import Registro from "./componentes/paginas/registro";
+import Productos from "./componentes/paginas/productos";
 
 function App() {
   return (
