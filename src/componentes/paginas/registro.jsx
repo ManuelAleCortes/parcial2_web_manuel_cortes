@@ -14,7 +14,7 @@ export default function Registro() {
         </header>
         <div id="pagina-contenido">
           <div id="pagina-contenido-contenedor">
-
+            <h1> Registro</h1>
           </div>
         </div>
       </>

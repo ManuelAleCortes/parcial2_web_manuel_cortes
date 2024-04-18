@@ -5,6 +5,7 @@ import Login from "./componentes/paginas/login";
 import Registro from "./componentes/paginas/registro";
 import Productos from "./componentes/paginas/productos";
 import NoPage from "./componentes/paginas/noPage";
+//import { app } from "./fb";
 function App() {
   return (
     <>
