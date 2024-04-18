@@ -1,0 +1,20 @@
+{
+    "Users": [
+        {
+          "name": "Manuel",
+          "lastName": "Cortes",
+          "userName": "Manuel C",
+          "contrasena": "cortes2024",
+          "correo": "Manuel@gmail.com",
+          "numero": 3153456345
+        },
+        {
+            "name": "Angel",
+            "lastName": "Montero",
+            "userName": "Motentero",
+            "contrasena": "montero2024",
+            "correo": "montero@gmail.com",
+            "numero": 3155426266
+        }
+    ]
+}

@@ -1,14 +1,11 @@
-import "./paginas.css";
 import Menu from "../contenido/menu";
-
-//import { useState } from "react";
-export default function Registro() {
-
+import "./paginas.css";
+export default function NoPage() {
     return (
-        <>
+    <>
         <header id="pagina-encabezado">
           <div>
-            <Menu titulo="Login" direccion="/login" nombre="Página registro" />
+            <Menu titulo="Login" direccion="/login" nombre="Página error 404"/>
           </div>
           
         </header>
@@ -18,5 +15,5 @@ export default function Registro() {
           </div>
         </div>
       </>
-    );
+      );
 }

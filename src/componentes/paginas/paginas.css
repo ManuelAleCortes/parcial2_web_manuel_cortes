@@ -1,0 +1,24 @@
+#pagina-encabezado{
+    left: 0;   
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  #pagina-contenido{
+    display: flex;
+    justify-content: center;
+    
+  }
+  #pagina-contenido-contenedor{
+    
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Permitir que los elementos se envuelvan en varias líneas si es necesario */
+
+  }
